@@ -4,7 +4,7 @@ Aplicativo simples que simula a geração dos números feitos em uma máquina el
 
 <br/>
 
-![](https://github.com/erickwelber/MegaSena/blob/master/Imagens/Mega1.png) ![](https://github.com/erickwelber/MegaSena/blob/master/Imagens/Mega2.png)
+![](https://github.com/erickwelber/MegaSena/blob/master/Imagens/Mega1.PNG) ![](https://github.com/erickwelber/MegaSena/blob/master/Imagens/Mega2.PNG)
 
 ## Tecnologia
 - Java
